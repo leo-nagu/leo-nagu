@@ -30,7 +30,7 @@
 ---
 
 ## 🧠 AI / ML Tech Stack
-
+<p>
 <img height="50" src="https://img.icons8.com/color/48/python.png"/>
 <img height="50" src="https://img.icons8.com/color/48/tensorflow.png"/>
 <img height="50" src="https://img.icons8.com/color/48/pytorch.png"/>
@@ -38,29 +38,29 @@
 <img height="50" src="https://img.icons8.com/color/48/pandas.png"/>
 <img height="50" src="https://img.icons8.com/color/48/opencv.png"/>
 <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-
+</p>
 ---
 
 ## 💻 Languages
-
-<img height="50" src="https://img.icons8.com/color/48/python.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
 
 ---
 
 ## 🛠️ Tools & IDEs
-
+<p>
 <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
 <img height="50" src="https://img.icons8.com/color/48/git.png"/>
 <img height="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
 <img height="50" src="https://img.icons8.com/color/48/github.png"/>
-
+</p>
 ---
 
 ## 🚀 Featured Projects
