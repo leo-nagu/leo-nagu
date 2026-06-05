@@ -49,6 +49,7 @@
 <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
 <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
 
 ---
 
