@@ -1,14 +1,14 @@
 # Hi 👋, I'm Nagu
 
-### 🤖 Aspiring AI Engineer | Machine Learning Enthusiast | Python Developer
+### 🤖 Aspiring AI Engineer | Gen Ai Enthusiast | Python Developer |  
 
 
 <img align="right" alt="AI Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Engineering Student
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 🎓  Artificial Intelligence Student
+* 🤖 Passionate about Artificial Intelligence , LLM , Python
 * 🌱 Currently learning Deep Learning, Generative AI, and DSA
 * 🐍 Strong foundation in Python Programming
 * 💡 Interested in NLP, Computer Vision, and LLMs
@@ -19,13 +19,13 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/nagarajan-p-8067b92a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6oOSDA7iSOuBJ%2F10RsCAHQ%3D%3D))
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/leo-nagu)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](YOUR_PORTFOLIO)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)]([https://leetcode.com/u/leo-nagu/))
 
 ---
 
